@@ -1,0 +1,7 @@
+seed=122 K=10 T=2000 runsA=500 runsB=120 D=5
+A eps final_regret 120.27 se 2.25
+A ucb1 final_regret 184.03 se 1.16
+A ts final_regret 31.62 se 0.79
+B linucb final_regret 37.69 se 0.40
+B ucb1 final_regret 1328.84 se 4.51
+B random final_regret 1326.34 se 4.56
