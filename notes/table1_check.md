@@ -23,4 +23,3 @@ All eight rows match the published Table 1.
 3. Healthcare is contextual and never non-stationary. Section 2.10 explains this:
    no change in the patient's state is assumed while the treatment decision is made.
 
-Checked on 9 October 2026 by Adithya R (2025AG05182).

@@ -22,4 +22,3 @@ All six rows match the published Table 2.
 3. Most of these tasks are treated as non-stationary but context-free. Drift is
    assumed; the side information that would explain the drift is not used.
 
-Checked on 9 October 2026 by Putta Madhu Rani (2025AG05144).
