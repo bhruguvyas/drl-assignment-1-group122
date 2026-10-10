@@ -76,16 +76,3 @@ reproduce any domain result from the survey, because the survey reports none.
 | 12 | Significance for reinforcement learning | survey 2.10 and 3 |
 | 13, 14 | Limitations, future scope and conclusion | survey 2.10 and 3.7, plus our own reading |
 | 16 | Proof of work, references and links | this repository |
-
-The figure on slide 10 is `figures/regret_curves.png`, produced by the notebook.
-
-## Files
-
-```
-bandit_reproduction.ipynb     experiment notebook, outputs included
-results.txt                   raw numeric output
-figures/regret_curves.png     figure used on slide 10
-notes/table1_check.md         row-by-row check of Table 1
-notes/table2_check.md         cell-by-cell check of Table 2
-references.md                 reference list with links
-```

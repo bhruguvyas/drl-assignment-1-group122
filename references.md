@@ -47,6 +47,3 @@
   unbounded losses.
 - Sublime, J. and Lefebvre, S. Collaborative clustering through constrained
   networks using bandit optimisation.
-
-Author, year and title are as cited in the survey. Check the arXiv identifiers
-against the original papers before relying on them.
